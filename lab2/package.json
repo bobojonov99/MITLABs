@@ -1,18 +1,14 @@
 {
   "name": "@shower/shower",
   "description": "Shower HTML presentation engine",
-  "version": "3.3.0",
+  "version": "0.0.1",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "https://pepelsbey.net/"
+    "name": "Amirjon Bobojonov"
   },
-  "homepage": "https://github.com/shower/shower",
+  "homepage": "http://bobojonov99.github.io/MITLABs/tree/master/lab2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/shower.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shower/shower/issues"
+    "url": "git://github.com/bobojonov99/MITLABs/tree/master/lab2.git"
   },
   "license": "MIT",
   "keywords": [
